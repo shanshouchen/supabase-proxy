@@ -1,1 +1,1 @@
-Supabase proxy server
+Supabase-proxy server
